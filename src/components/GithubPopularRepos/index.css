@@ -1,0 +1,31 @@
+/* Write your CSS here */
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+.heading {
+  font-size: 25px;
+  font-weight: 800;
+  font-family: Lobster;
+  color: #0f172a;
+  margin-bottom: 20px;
+}
+.language-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  list-style-type: none;
+  border-width: 0px;
+}
+.failureContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.failureImage {
+  width: 250px;
+}

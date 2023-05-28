@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.imageItemContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffffff;
+}
+.samllImage {
+  width: 20px;
+}
+.smallContainer {
+  display: flex;
+  flex-direction: row;
+}
+.bgImage {
+  width: 120px;
+}
